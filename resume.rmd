@@ -1,0 +1,92 @@
+---
+title: "Joana Petrescu CV"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Education
+
+### Columbia University Vagelos College of Physicians & Surgeons
+*August 2016 -*  
+Medical Scientist Training Program  
+Candidate for MD/PhD
+
+### University College London
+*September 2015 - September 2016*  
+MA Philosophy, Politics, and Economics of Health
+
+### University of Cambridge
+*September 2014 - September 2015*  
+MPhil Medical Science, MRC Cancer Unit
+
+### Villanova University
+*August 2010 - May 2014*  
+BS Biochemistry, French and Francophone Studies  
+BSH Honors Interdisciplinary Studies  
+Summa cum laude
+
+# Research
+
+### Center for Genomics of Neurodegenerative Disease
+New York Genome Center, New York, NY  
+*July 2018 -*  
+Studying pathological and molecular correlates of regional involvement in ALS-FTD using spatially resolved transcriptomics and highly multiplexed immunostaining
+
+### Hutchison-MRC Cancer Unit
+University of Cambridge, Cambridge, UK  
+*September 2014 - September 2015*  
+Used super resolution microscopy to visualize aberrant DNA repair complex assembly in BRCA2-deficient cells
+
+### Research Institute, Children’s Hospital of Philadelphia
+University of Pennsylvania, Philadelphia, PA  
+*June 2012 - August 2014*  
+Investigated interactions between viral proteins and the cellular DNA damage response  
+Purified a recombinant adenovirus protein and used in-vitro assays to characterize histone-like properties, contributing to the first description of the biological role of a viral pseudo-histone
+
+### Emergency Department, Thomas Jefferson University Hospital
+Philadelphia, PA  
+*January 2012 - December 2012*
+Interacted with patients to explain nationwide clinical studies and obtain informed consent  
+Enrolled patients based on IRB inclusion criteria, collected data, and coded data for analysis
+
+# Honors & Awards
+
+### Marshall Scholarship
+*2014*  
+Awarded to 34 students out of 979 endorsed applicants for two years of fully-funded post-graduate study in the UK
+
+### Goldwater Scholarship
+*2013*  
+Recognized 272 students nationwide for demonstrating potential for and commitment to a research career in the STEM fields
+
+### Quindlen Endowed Villanova Presidential Scholarship
+*2010*  
+Received a merit-based full four-year scholarship, offered to approximately 24 students annually
+
+# Publication
+
+Avgousti DC, Herrmann C, Sekulic N, Kulej K, Petrescu J, Molden RC, Pancholi NJ, Reyes ED, Seeholzer SH, Black BE, Garcia BA and Weitzman MD. A core viral protein binds host nucleosomes to sequester immune danger signals. Nature, 2016; 535, 173–177.  
+[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4950998/)
+
+# Volunteering
+
+### Columbia Student Medical Outreach Behavioral Health Clinic
+*December 2019-*  
+Provide psychiatric evaluation, psychotherapy, medication management and social support as part of a longitudinal patient care program serving the uninsured and medically underserved population in Washington Heights and Northern Harlem
+
+### Columbia Human Rights Initiative and Asylum Clinic
+*October 2016 -*  
+Contributed to 7 independent medical or psychiatric evaluations and medical affidavits submitted as evidence during legal hearing for individuals applying for political asylum in the U.S.
+
+### Narrative Medicine Workshop
+*November 2017*  
+Provided logistical support for and participated in intensive weekend workshop on principles, practice, and pedagogy of narrative medicine
+
+### Planning Committee, Anatomy Donor Memorial Service
+*January - May 2017*  
+Planned memorial service to thank and commemorate donors for our clinical anatomy laboratory and their loved ones
+
+
