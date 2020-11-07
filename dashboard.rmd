@@ -63,6 +63,9 @@ plot_ly(alpha = 0.4) %>%
 
 ```
 
-rmarkdown::render("dashboard_template.Rmd", output_format = "flexdashboard::flex_dashboard")
+```{r}
 
+rmarkdown::render("dashboard.Rmd", output_format = "flexdashboard::flex_dashboard")
+
+```
 
