@@ -1,0 +1,68 @@
+---
+title: "Instacart data dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+#install.packages("plotly")
+library(plotly)
+library(p8105.datasets)
+
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Order number vs. days since prior order
+
+```{r}
+
+instacart %>%
+  select(order_id, order_number, days_since_prior_order) %>%
+  unique() %>%
+  sample_n(10000) %>% 
+  plot_ly(y = ~order_number, x = ~days_since_prior_order, type = "box", colors = "viridis") %>%
+   layout(xaxis = list(title = "Days since prior order",
+                      zeroline = FALSE),
+         yaxis = list(title = "Number of orders",
+                      zeroline = FALSE))
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Vegetables and icecream vs. time of day
+
+```{r}
+
+veg <- instacart %>% select(order_id, order_hour_of_day, aisle) %>% filter(aisle == "fresh vegetables")
+icecream <- instacart %>% select(order_id, order_hour_of_day, aisle) %>% filter(aisle == "ice cream ice")
+
+plot_ly(alpha = 0.4) %>% 
+  add_histogram(x = ~veg$order_hour_of_day,
+                name = "Fresh Vegetables") %>% 
+  add_histogram(x = ~icecream$order_hour_of_day,
+                name = "Ice Cream") %>% 
+  layout(barmode = "overlay",
+         xaxis = list(title = "Hour",
+                      zeroline = FALSE),
+         yaxis = list(title = "Count",
+                      zeroline = FALSE))
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
+rmarkdown::render("dashboard_template.Rmd", output_format = "flexdashboard::flex_dashboard")
+
+
