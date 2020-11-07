@@ -1,0 +1,15 @@
+---
+title: "Joana Petrescu"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# About Joana
+
+I'm an MD-PhD candidate at Columbia University studying genomics of amyotrophic lateral sclerosis *(ALS)* and frontotemporal dementia *(FTD)* in the [Center for Genomics of Neurodegenerative Disease](https://www.nygenome.org/labs/phatnani-lab-center-for-genomics-of-neurodegenerative-disease/) at the New York Genome Center. My project seeks to understand **changes in cell state and intercellular interactions** that are reflected by **pathological features** such as TDP-43 aggregation in ALS-FTD spectrum disorders. As a Marshall Scholar, I studied the effect of BRCA2 deficiency on initiation of homologous recombination in the Venkitaraman lab at the MRC Cancer Unit, University of Cambridge as well as Philosophy, Politics, and Economics of Health at UCL. Prior to this, I studied the role of the DNA damage response during viral infection in the Weitzman lab at the Children's Hospital of Philadelphia and the University of Pennsylvania. I completed an undergraduate degree in biochemistry and French and Francophone studies in the honors program at Villanova University. In addition to research, I currently volunteer as a co-chair of the [CoSMO Behavioral Health Clinic](https://www.ps.columbia.edu/education/academic-programs/md-program/md-student-resources/office-student-affairs/p-s-club/clubs-and-organizations/student-run-clinics/columbia-student-medical-outreach-program) which provides free mental health services to the medically underserved population of Washington Heights. In my free time, I enjoy exploring NYC by bike.
+
+
+<img src="images/jopetrescu.jpg" style="width:50%">
