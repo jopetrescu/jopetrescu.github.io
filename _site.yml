@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume.html
+    - text: "Instagram Dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<jopetrescu@gmail.com>
     - icon: fa-github fa-lg
@@ -15,4 +17,4 @@ navbar:
       href: https://twitter.com/joanapetrescu
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
