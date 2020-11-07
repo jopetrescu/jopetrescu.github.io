@@ -6,10 +6,9 @@ output:
     vertical_layout: fill
 ---
 
-```{r setup, include=FALSE}
+```{r, include=FALSE}
 library(flexdashboard)
 library(tidyverse)
-#install.packages("plotly")
 library(plotly)
 library(p8105.datasets)
 
